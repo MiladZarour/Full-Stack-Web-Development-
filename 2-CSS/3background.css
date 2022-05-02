@@ -1,0 +1,19 @@
+h1{
+  background: rgba(80, 80, 255, 0.5);
+  border-color:blue;
+  border-width: 5px;
+  border-style: solid;
+
+  /* border: 5px solid orange; */
+   border: 3px dashed blue; 
+}
+
+body{
+  background: green;
+}
+
+body{
+  background: url(https://images.unsplash.com/photo-1530053969600-caed2596d242?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
