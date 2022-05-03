@@ -1,0 +1,36 @@
+.flexContainer1{
+  border: 3px solid blue;
+  display:flex;
+  /* flex-direction: row; /* the box are shrinking  */
+  /* flex-direction: row-reverse;  */
+  /* flex-direction: column-reverse;  */
+  flex-direction: row;
+}
+/* .flexContainer2{
+  border: 3px solid blue;
+  display:inline-flex;
+} */
+.box1{
+  width: 100px;
+  height: 300px;
+  background-color: pink;
+  /* order:3; */
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+
+.box2{
+  width: 100px;
+  height: 300px;
+  background-color: cyan;
+  /* order:1; */
+  flex-grow: 1;
+}
+
+.box3{
+  width: 100px;
+  height: 300px;
+  background-color: orange;
+  /* order:2; */
+  flex-grow: 2;
+}
