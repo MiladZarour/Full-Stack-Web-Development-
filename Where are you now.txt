@@ -1,3 +1,3 @@
 Now I am in:
-folder :  8. Intermediate Bootstrap 
-video : 1. Bootstrap Modals
+folder : 7. Bootstrap
+video : 1. Bootstrap Nav Bar
