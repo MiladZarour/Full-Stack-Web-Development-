@@ -35,15 +35,12 @@
 
   /* grid-area: row start value/column start value/row end value / column end value;  */
   /* grid-area: 2/2/3/3; */
+
 }
 
 .box2 {
   grid-row: 3/3;
   grid-column: 3/3;
-}
-
-.box3 {
-  /* grid-area: 2/1/3/1; */
 }
 
 .box4 {
