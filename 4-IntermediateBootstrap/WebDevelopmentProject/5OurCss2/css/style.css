@@ -1,0 +1,48 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    border-bottom: #00e6b0 solid 3px;
+}
+
+/* .navbar-brand {  it will not change the color
+    color: #e600e6;
+    font-size: 24px;
+} */
+
+.navbar .navbar-brand {
+    color: #00e6b0 !important;
+    font-size: 24px;
+}
+
+.nav-link {
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    color: #00e6b0 !important;
+}
+
+#header {
+    background: url('../images/header-bg.jpg') no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#header .overlay {
+    background-color: rgba(121, 128, 250, 0.5);
+    height: 100vh;
+}
+
+.btn-outline-secondary {
+    cursor: pointer;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #00b3ce;
+}
