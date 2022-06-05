@@ -23,3 +23,14 @@ var schoolName, hasCourse;
 schoolName = 'OAKAcademy';
 hasCourse = true;
 console.log(schoolName + ' has 35 courses. Does it have any course ' + hasCourse);
+
+schoolNum = 'twenty two'
+console.log(schoolNum);
+
+var schoolTeam = 'tennis';
+console.log(schoolTeam);
+
+alert(schoolTeam); // pop up window with the word tennis
+
+var age = prompt('How old is he?');
+console.log('Alex is ' + age + ' years old.');

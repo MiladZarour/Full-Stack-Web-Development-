@@ -23,3 +23,6 @@ var schoolName, hasCourse;
 schoolName = 'OAKAcademy';
 hasCourse = true;
 console.log(schoolName + ' has 35 courses. Does it have any course ' + hasCourse);
+
+schoolNum = 'twenty two';
+console.log(schoolNum);
