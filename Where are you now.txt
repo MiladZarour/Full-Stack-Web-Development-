@@ -1,3 +1,3 @@
 Now I am in:
-folder : 8. Intermediate Bootstrap Z:\Videos\4K Video Downloader\FULL STACK COURSES\Full Stack Web Development Bootcamp with MERN Stack Projects\[TutsNode.com] - Full Stack Web Development Bootcamp with MERN Stack Projects
+folder : 8C:\Users\Milad\Desktop\Full Stack Web Development Bootcamp with MERN Stack Projects\[TutsNode.com] - Full Stack Web Development Bootcamp with MERN Stack Projects\11. Javascript Conditional Statements
 video : 1. Javascript Conditional Statements
