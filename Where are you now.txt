@@ -1,3 +1,3 @@
 Now I am in:
-folder : 8C:\Users\Milad\Desktop\Full Stack Web Development Bootcamp with MERN Stack Projects\[TutsNode.com] - Full Stack Web Development Bootcamp with MERN Stack Projects\11. Javascript Conditional Statements
-video : 1. Javascript Conditional Statements
+folder : 14. C:\Users\Milad\Desktop\Full Stack Web Development Bootcamp with MERN Stack Projects\[TutsNode.com] - Full Stack Web Development Bootcamp with MERN Stack Projects\14. Arrays in JavaScript
+video : 3. Array Methods in Javascript

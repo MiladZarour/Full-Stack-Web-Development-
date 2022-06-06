@@ -1,26 +1,30 @@
-function calcAge(BirthYear) {
-    return 2022 - BirthYear;
-}
+var student1 = 'Sheldon';
+var student1 = 'Penny';
+var student1 = 'Leonard';
+var student1 = 'Raj';
 
-console.log('Him: ' + calcAge(1992));
-console.log('Her: ' + calcAge(1985));
+var students = ['Abo', 'Milad', 'Naji', 'Ward', 'Isam', 'Farha'];
 
-var calculateAge = function (BirthYear) {
-    return 2022 - BirthYear;
-}
+console.log(students);
+console.log(students[0]);
 
+students[0] = 'Amy';
+console.log(students);
 
-var HowAreYou = function (name, surName) {
-    return (console.log('How are you ' + name + ' ' + surName));
-}
-
-HowAreYou('Raheleh', 'Arman');
+students[4] = 'Howard';
+console.log(students);
 
 
-var age = calculateAge(1985);
-console.log('AGE IS : ' + age);
+students[7] = 'Howard';
+console.log(students);
 
-calculateAge = 15;
-console.log("AFTER CHANGING calculateAge: " + calculateAge);
-calculateAge = 'John';
-console.log("AFTER CHANGING calculateAge: " + calculateAge);
+var cats = [];
+var cats = new Array(); // Creating an array as well
+
+var commonData = ['john', 25, true, null]; // we can store different data
+commonData[1];
+
+var cars = ['Mercedes', 'Audi', 'bmw', 'Volvo'];
+var cars_length = cars.length;
+
+console.log(cars.length);
