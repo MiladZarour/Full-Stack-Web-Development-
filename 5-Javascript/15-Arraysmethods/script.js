@@ -32,3 +32,15 @@ cats.shift();
 console.log(cats);
 
 //indexOf
+students.indexOf('cat1');
+console.log(cats.indexOf('cat1')); // 0
+
+
+var friends = ['Ross', 'Rachel', 'Joey', 'Chandler'];
+var closeFriends = friends.slice(1, 3);
+
+console.log(friends);
+console.log(closeFriends);
+
+var otherFriends = friends.slice();
+console.log(otherFriends);
