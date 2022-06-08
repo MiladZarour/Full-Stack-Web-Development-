@@ -68,5 +68,27 @@ console.log(colors.black.code)
 console.log(colors.black.code[2])
 
 var blogPosts = [
-
+    {
+        title: 'weather',
+        content: 'it is rainy today',
+        comment: [
+            {
+                name: 'John',
+                lastName: 'Travalto'
+            },
+            {
+                name: 'Fredo',
+                lastName: 'Begins'
+            }
+        ]
+    },
+    {
+        title: 'weather',
+        content: 'i do not like weather'
+    },
 ];
+
+console.log(blogPosts[0]);
+console.log(blogPosts[0].title);
+
+console.log(blogPosts[0].comment[1].name);
