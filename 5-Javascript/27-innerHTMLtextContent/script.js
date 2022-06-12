@@ -23,7 +23,7 @@
 
 var paragraph = document.querySelector('#oakParagraph');
 // console.log(paragraph.textContent);
-paragraph.textContent = 'OAK Academy is the best reallyyyy !!!!!!!';
+// paragraph.textContent = 'OAK Academy is the best reallyyyy !!!!!!!';
 
-// console.log(paragraph.innerHTML);
-// paragraph.innerHTML = 'OAK ACADEMY IS <strong> GREEEAAATTTT </strong> REALLY';
+console.log(paragraph.innerHTML);
+paragraph.innerHTML = 'OAK ACADEMY IS <strong> GREEEAAATTTT </strong> REALLY';
