@@ -22,7 +22,8 @@
 // }, 500);
 
 var paragraph = document.querySelector('#oakParagraph');
-// paragraph.textContent = 'OAK Academy is the best reallyyyy';
+// console.log(paragraph.textContent);
+paragraph.textContent = 'OAK Academy is the best reallyyyy !!!!!!!';
 
 // console.log(paragraph.innerHTML);
-paragraph.innerHTML = 'OAK ACADEMY IS <strong> GREEEAAATTTT </strong> REALLY';
+// paragraph.innerHTML = 'OAK ACADEMY IS <strong> GREEEAAATTTT </strong> REALLY';
