@@ -15,3 +15,15 @@ listParent.addEventListener('click', function () {
 
     listParent.style.backgroundColor = 'Blue';
 })
+
+// Quiz Solution //
+
+var listItems = document.querySelectorAll('li');
+console.log('listItems', listItems);
+
+for (var i = 0; i < listItems.length; i++) {
+    listItems[i].addEventListener('click', function () {
+        this.style.color = 'white';
+        // listItems[i].style.color = 'white';
+    })
+}
