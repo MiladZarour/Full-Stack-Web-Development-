@@ -51,5 +51,5 @@ var firstTodoItem = document.querySelector('.todoItem');
 
 firstTodoItem.addEventListener('mouseover', function () {
     firstTodoItem.style.backgroundColor = 'blue';
-    firstTodoItem.style.Color = 'white';
+    firstTodoItem.style.color = 'white';
 })
