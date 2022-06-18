@@ -39,10 +39,17 @@
 // // oakParagraph.addEventListener('click', toggleBackground());
 
 
-var listParent = document.querySelector('ul');
+// var listParent = document.querySelector('ul');
 
-listParent.addEventListener('click', function (event) {
-    console.log('You clicked the ul');
+// listParent.addEventListener('click', function (event) {
+//     console.log('You clicked the ul');
 
-    event.target.style.backgroundColor = 'blue';
+//     event.target.style.backgroundColor = 'blue';
+// })
+
+var firstTodoItem = document.querySelector('.todoItem');
+
+firstTodoItem.addEventListener('mouseover', function () {
+    firstTodoItem.style.backgroundColor = 'blue';
+    firstTodoItem.style.Color = 'white';
 })
